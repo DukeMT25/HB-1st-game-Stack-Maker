@@ -351,10 +351,15 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/_Game/_Scripts/Brick.cs"
-"Assets/_Game/_Scripts/BrickControl.cs"
-"Assets/_Game/_Scripts/DetectSwipe.cs"
-"Assets/_Game/_Scripts/Player.cs"
+"Assets/_Game/_Scripts/Gameplay/Brick.cs"
+"Assets/_Game/_Scripts/Gameplay/BrickControl.cs"
+"Assets/_Game/_Scripts/Gameplay/DetectSwipe.cs"
+"Assets/_Game/_Scripts/Gameplay/Level.cs"
+"Assets/_Game/_Scripts/Gameplay/Player.cs"
+"Assets/_Game/_Scripts/Manager/GameManager.cs"
+"Assets/_Game/_Scripts/Manager/LevelManager.cs"
+"Assets/_Game/_Scripts/Manager/Singleton.cs"
+"Assets/_Game/_Scripts/Manager/UIManager.cs"
 -langversion:9.0
 
 /deterministic
